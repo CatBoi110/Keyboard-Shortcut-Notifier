@@ -1,5 +1,4 @@
 # Keyboard-Shortcut-Notifier
-Thank you for downloading Keyboard Shortcut Notifer!
 
 Purpose:
 - This lightweight program is intended to provide the user with an auditory notification when ever they input common keyboard shortcuts 
