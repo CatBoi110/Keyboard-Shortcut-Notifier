@@ -14,16 +14,16 @@ Controls:
 - Mute/Unmute: Hold "ctrl" and press "m" to mute audio, then hold "ctrl" and press "m" again to unmute audio
 
 Keyboard Shortcut List:
-Copy - "ctrl+c"
-Paste - "ctrl+v"
-Cut - "ctrl+x"
-Caps Lock - "caps lock on and off"
-Undo - "ctrl+z"
-Redo - "ctrl+y"
-Select All - "ctrl+a"
-Close_Program - "alt+f4"
-Find - "ctrl+f"
-Print Document - "ctrl+p"
+- Copy - "ctrl+c"
+- Paste - "ctrl+v"
+- Cut - "ctrl+x"
+- Caps Lock - "caps lock on and off"
+- Undo - "ctrl+z"
+- Redo - "ctrl+y"
+- Select All - "ctrl+a"
+- Close_Program - "alt+f4"
+- Find - "ctrl+f"
+- Print Document - "ctrl+p"
 
 Created: 1/30/2022
 By Jack Levin 
